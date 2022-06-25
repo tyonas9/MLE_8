@@ -1,0 +1,3 @@
+[submodule "assignments/mle-basictools/naive-addition"]
+	path = assignments/mle-basictools/naive-addition
+	url = https://github.com/tyonas9/naive-addition
